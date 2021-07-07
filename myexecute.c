@@ -15,6 +15,9 @@ int main(int argc, char *argv[]) {
 
 	// make child process 
 	// and execute cat (do not use just "cat", use another name)	
+	//
+	// use fork(), exec family
+	//
 	
 	printf("********** execute finish **********\n");
 	return 0;

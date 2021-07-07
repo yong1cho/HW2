@@ -17,6 +17,8 @@ int main(int argc, char *argv[]) {
 
 	printf("********** read %s start **********\n", argv[1]);
 
+	//use open(), read() close()
+
 	//open file
 	//
 	//read file
